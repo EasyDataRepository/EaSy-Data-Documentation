@@ -7,7 +7,8 @@
 [GuideUser_EaSyData_V2023.pdf](https://github.com/user-attachments/files/15533266/GuideUser_EaSyData_V2023.pdf)
 
   ## List of metadata
-  [EaSyData_ListeMetadonnées_VJuin2024.xlsx](https://github.com/user-attachments/files/15533256/EaSyData_ListeMetadonnees_VJuin2024.xlsx)
+ [EaSyData_ListeMetadonnees_VJuin2024.pdf](https://github.com/user-attachments/files/15533569/EaSyData_ListeMetadonnees_VJuin2024.pdf)
+
 
   ## FAQ
 
