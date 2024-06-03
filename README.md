@@ -1,9 +1,21 @@
-# EaSy-Data-Documentation
 
-Repository used for the documentation of the EaSy Data project.
+<img width="594" alt="EaSyData_PNG" src="https://github.com/EasyDataRepository/EaSy-Data-Documentation/assets/171562715/294eb335-112f-47c6-b128-a8b694bfaba0">
 
-# EaSy Data main interface
-https://easydata.earth
+# EaSy Data Documentation
 
-# EaSy Data test interface
-https://rec.easydata.earth
+  ## User Guide
+[GuideUser_EaSyData_V2023.pdf](https://github.com/user-attachments/files/15533266/GuideUser_EaSyData_V2023.pdf)
+
+  ## List of metadata
+  [EaSyData_ListeMetadonnées_VJuin2024.xlsx](https://github.com/user-attachments/files/15533256/EaSyData_ListeMetadonnees_VJuin2024.xlsx)
+
+  ## FAQ
+
+
+# Other links
+
+  ## EaSy Data main interface
+  https://easydata.earth
+
+  ## EaSy Data test interface
+  https://rec.easydata.earth
