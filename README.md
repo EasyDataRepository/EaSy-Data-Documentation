@@ -11,6 +11,12 @@
 
 
   ## FAQ
+    **Puis je déposer mon jeu de données dans EaSy Data? Mon jeu de données est il dans le périmètre accepté par EaSy Data?**
+      _Les périmètres ont été définis par les pôles de donnée et son disponibles dans le guide de l'utilisateur. Si toutefois, vous avez un doute, vous pouvez contacter les équipes de modération aux adresses suivantes :_
+      - Theia : theia-moderation@data-terra.org
+      - Formater : formaterre-moderation-easydata@data-terra.org
+      - Aeris : moderation-easydata@aeris-data.fr
+
 
 
 # Other links
