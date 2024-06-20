@@ -4,8 +4,8 @@
 # EaSy Data Documentation
 
   ## User Guide
-* [PDF Version] (https://github.com/user-attachments/files/15533266/GuideUser_EaSyData_V2023.pdf)
-* [Online version] (https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/Publier-ses-donn%C3%A9es-dans-EaSy-Data)
+* [PDF Version](https://github.com/user-attachments/files/15533266/GuideUser_EaSyData_V2023.pdf)
+* [Online version](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/Publier-ses-donn%C3%A9es-dans-EaSy-Data)
 
   ## List of metadata
  [EaSyData_ListeMetadonnees_VJuin2024.pdf](https://github.com/user-attachments/files/15533569/EaSyData_ListeMetadonnees_VJuin2024.pdf)
