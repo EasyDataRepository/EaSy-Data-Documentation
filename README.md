@@ -11,12 +11,16 @@
  [EaSyData_ListeMetadonnees_VJuin2024.pdf](https://github.com/user-attachments/files/15533569/EaSyData_ListeMetadonnees_VJuin2024.pdf)
 
 
-  # FAQ
+  ## FAQ
 * [FAQ générale](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ)
 * [FAQ Theia](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_Theia)
 * [FAQ Aeris](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_Aeris)
-* [FAQ Forme Terra](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_FormaTerre)
+* [FAQ FormaTerre](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_FormaTerre)
 
+  ## Guide de modération
+* [Guide de modération Theia](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Theia)
+* [Guide de modération Aeris](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Aeris)
+* [Guide de modération FormaTerre](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_FormaTerre)
 
 
 # Autres liens
