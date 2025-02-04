@@ -20,7 +20,7 @@
   ## Guide de modération
 * [Guide de modération Theia](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Theia)
 * [Guide de modération Aeris](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Aeris)
-* [Guide de modération FormaTerre](https://github.com/EasyDaaRepository/EaSy-Data-Documentation/wiki/GuideM_FormaTerre)
+* [Guide de modération FormaTerre](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_FormaTerre)
 
 ## Présentation EaSy Data
 * [SIST 2024](https://github.com/EasyDataRepository/EaSy-Data-Documentation/blob/main/Pre%CC%81sentation_EaSy_Data_SIST2024.pdf)
