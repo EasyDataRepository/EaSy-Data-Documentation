@@ -10,6 +10,8 @@
   ## Liste de metadonnées
  [EaSyData_ListeMetadonnees_VJuin2024.pdf](https://github.com/user-attachments/files/15533569/EaSyData_ListeMetadonnees_VJuin2024.pdf)
 
+ ## API Documentation
+ [Documentation Swagger](https://easydata-swagger.vercel.app/)
 
   ## FAQ
 * [FAQ générale](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ)
