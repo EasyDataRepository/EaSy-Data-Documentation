@@ -19,7 +19,7 @@
 * [FAQ Aeris](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_Aeris)
 * [FAQ FormaTerre](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/FAQ_FormaTerre)
 
-  ## Guide de modération
+ ## Guide de modération
 * [Guide de modération Theia](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Theia)
 * [Guide de modération Aeris](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_Aeris)
 * [Guide de modération FormaTerre](https://github.com/EasyDataRepository/EaSy-Data-Documentation/wiki/GuideM_FormaTerre)
